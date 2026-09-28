@@ -9,18 +9,6 @@ Grupo: 3CV2
 
 Carrera: Ingeniería en Sistemas Computacionales
 
-### Información del Proyecto Asignado[cite: 1]
-* **Proyecto asignado:** [Escribir aquí el proyecto asignado por el docente: Sismos / Consumo de agua / Obra pública municipal][cite: 1]
-* **Dirección del fork:** [Pegar aquí la URL del fork realizado][cite: 1]
-* **Confirmación (commit) puesta en funcionamiento:** [Pegar aquí el identificador del commit][cite: 1]
-
-### Enlaces a los Issues de las Propuestas de Mejora[cite: 1]
-* [Propuesta 1 - Título de la propuesta de Carlo Emiliano](Enlace al issue)[cite: 1]
-* [Propuesta 2 - Título de la propuesta de Yair](Enlace al issue)[cite: 1]
-* [Propuesta 3 - Título de la propuesta de Antonio Giovanni](Enlace al issue)[cite: 1]
-
----
-
 ## Índice
 
 1. **Proyecto Propio (Ejercicio 4)**[cite: 1]
