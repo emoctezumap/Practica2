@@ -28,4 +28,4 @@ Carrera: Ingeniería en Sistemas Computacionales
    - [Documento con las tres propuestas de mejora (PDF)](./propuestas/propuestas-de-mejora.pdf)
 
 5. **Exposición (Ejercicio 7)**
-   - [Presentación del equipo (PDF)](./exposicion/presentacion.pdf)
+   - [Presentación de la exposición (PDF)](./exposición/exposicion.pdf)
