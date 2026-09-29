@@ -11,26 +11,26 @@
 ## Evidencias de Funcionamiento
 
 ### 1. Arranque de Contenedores y Configuración
-![Arranque de contenedores](evidencias/evidencia1.jpeg)
+![Arranque de contenedores](evidencia1.jpeg)
 
 <br>
 
-![Detalle de configuración](evidencias/evidencia1_1.jpeg)
+![Detalle de configuración](evidencia1_1.jpeg)
 
 <br>
 
 ### 2. Aplicación Web Funcionando Localmente
-![Visualización principal](evidencias/evidencia2.jpeg)
+![Visualización principal](evidencia2.jpeg)
 
 <br>
 
-![Vista de datos sísmicos](evidencias/evidencia2_1.jpeg)
+![Vista de datos sísmicos](evidencia2_1.jpeg)
 
 <br>
 
-![Interfaz del sistema](evidencias/evidencia2_2.jpeg)
+![Interfaz del sistema](evidencia2_2.jpeg)
 
 <br>
 
 ### 3. Consulta a la Base de Datos
-![Consulta SQL en dim_sismos](evidencias/evidencia3.jpeg)
+![Consulta SQL en dim_sismos](evidencia3.jpeg)
