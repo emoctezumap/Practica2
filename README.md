@@ -22,7 +22,7 @@ Carrera: Ingeniería en Sistemas Computacionales
    - [Directorio de evidencias de arranque y consultas](./proyecto-asignado/evidencias/)
 
 3. **Lectura y Resumen de Artículos (Ejercicio 3)**
-   - [Resúmenes de los tres artículos (PDF)](./articulos/resumenes.pdf)
+   - [Resúmenes de los tres artículos (PDF)](./lectura_resumen_art_2.pdf)
 
 4. **Propuestas de Mejora (Ejercicio 6)**
    - [Documento con las tres propuestas de mejora (PDF)](./propuestas/propuestas-de-mejora.pdf)
