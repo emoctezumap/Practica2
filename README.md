@@ -19,7 +19,7 @@ Carrera: Ingeniería en Sistemas Computacionales
    - [Requisitos ampliados y levantamiento (PDF)](./proyecto-asignado/requisitos-ampliados.pdf)
    - [Modelo conceptual EER (Imagen)](./proyecto-asignado/Modelo-EER-proyecto-asignado.png)
    - [Correspondencia con el esquema (PDF)](./proyecto-asignado/correspondencia-con-el-esquema.pdf)
-   - [Directorio de evidencias de arranque y consultas](./proyecto-asignado/evidencias/)
+   - [Directorio de evidencias de arranque y consultas](proyecto-asignado/evidencias/levantamientoejercicio2.md)
 
 3. **Lectura y Resumen de Artículos (Ejercicio 3)**
    - [Resúmenes de los tres artículos (PDF)](./articulos/lectura_resumen_art.pdf)
