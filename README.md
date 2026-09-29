@@ -25,7 +25,10 @@ Carrera: Ingeniería en Sistemas Computacionales
    - [Resúmenes de los tres artículos (PDF)](./articulos/lectura_resumen_art.pdf)
 
 4. **Propuestas de Mejora (Ejercicio 6)**
-   - [Documento con las tres propuestas de mejora (PDF)](./propuestas/propuestas-de-mejora.pdf)
+   ## Propuestas de Mejora Individuales (Giovanni García)
+* [Propuesta 1: Registro y visualización de daños estructurales](https://github.com/emoctezumap/Practica2/issues/1)
+* [Propuesta 2: Agrupación visual y detección de enjambres sísmicos](https://github.com/emoctezumap/Practica2/issues/2)
+* [Propuesta 3: Sistema de suscripción y alertas proactivas por zona](https://github.com/emoctezumap/Practica2/issues/3)
 
 5. **Exposición (Ejercicio 7)**
    - [Presentación de la exposición (PDF)](./exposición/exposicion.pdf)
