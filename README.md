@@ -13,11 +13,11 @@ Carrera: Ingeniería en Sistemas Computacionales
 
 1. **Proyecto Propio (Ejercicio 4)**
    - [Requisitos ampliados (PDF)](./proyecto-propio/requisitos-ampliados.pdf)
-   - [Modelo EER en notación Peter Chen (Imagen)](./proyecto-propio/eer-chen.png)
+   - [Modelo EER en notación Peter Chen (Imagen)](./proyecto-propio/Modelo-EER-proyecto-propio.png)
 
 2. **Proyecto Asignado (Ejercicios 2 y 5)**
    - [Requisitos ampliados y levantamiento (PDF)](./proyecto-asignado/requisitos-ampliados.pdf)
-   - [Modelo conceptual EER (Imagen)](./proyecto-asignado/eer.png)
+   - [Modelo conceptual EER (Imagen)](./proyecto-asignado/Modelo-EER-proyecto-asignado.png)
    - [Correspondencia con el esquema (PDF)](./proyecto-asignado/correspondencia-con-el-esquema.pdf)
    - [Directorio de evidencias de arranque y consultas](./proyecto-asignado/evidencias/)
 
