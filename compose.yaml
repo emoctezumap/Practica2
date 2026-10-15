@@ -1,0 +1,17 @@
+
+services:
+  postgres:
+    image: postgres:16
+    container_name: practica3_postgres
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: alumno
+      POSTGRES_PASSWORD: practica3_local
+      POSTGRES_DB: practica3
+    ports:
+      - "5433:5432"
+    volumes:
+      - practica3_datos:/var/lib/postgresql/data
+
+volumes:
+  practica3_datos:
